@@ -5,14 +5,14 @@
    margin: 0;
 }
 
-#bodyF3H {
+#bodyF1S {
    width: 100%;
    height: 100%;
-   background-image: url(./IMG/ReiHarold.jpg);
+   background-image: url(./IMG/Shrekbbs.jpg);
+   background-size: 100% 100vh;
 }
 
-
-.containerf3 {
+.containerf1s{
    width: 100%;
    height: 100vh;
    display: flex;
@@ -21,7 +21,7 @@
    align-items: center;
 }
 
-.primeiroP { 
+.primeiroPS {
    width: 70%;
    border-radius: 5px;
    background-color: rgba(0, 0, 0, 0.473);
@@ -35,39 +35,40 @@
    
 }
 
-.segundoP {
-   width: 40%;
-   height: 30%;
-   align-items: center;
-   text-align: center;
-   font-family:'Chakra Petch', sans-serif; 
+.segundoPS {
+   width: 21%;
+   height: 14%;
+   border-radius: 5px;
+   background-color: rgba(0, 0, 0, 0.473);
+   font-family:'Chakra Petch', sans-serif; ;
    font-size: 20px;
    font-weight: bold;
-   border-radius: 5px;
    color:white ;
-   background-color: rgba(0, 0, 0, 0.473);
-   padding: 1%;
-   
+   flex-direction: row;
+   padding: 2%;
+   text-align: center;
+   padding: 2%;
+
 
 }
 
-.terceiroP {
-   width: 41%;
-   height: 20%;
-   align-items: center;
-   text-align: center;
-   font-family:'Chakra Petch', sans-serif; 
+.terceiroPS {
+   width: 21%;
+   height: 13%;
+   border-radius: 5px;
+   background-color: rgba(0, 0, 0, 0.473);
+   font-family:'Chakra Petch', sans-serif; ;
    font-size: 20px;
    font-weight: bold;
-   border-radius: 5px;
-   color: white ;
-   background-color: rgba(0, 0, 0, 0.473);
-   padding: 1%;
-
+   color:white ;
+   flex-direction: row;
+   padding: 2%;
+   text-align: center;
+   padding: 2%;
 
 }
 
-.buttonRespF3 {
+.buttonRespF1S {
    width: 100px;
    height: 50px;
    background-color: rgba(0, 0, 0, 0.473);
@@ -78,11 +79,8 @@
    color: white;
 }
 
-.buttonRespF3:hover {
+.buttonRespF1S:hover {
    cursor: pointer;
    transition: 0.3s;
    transform: scale(1.1);
 }
-
-
-
