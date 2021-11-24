@@ -11,7 +11,7 @@ body {
    background-color: black;
 }
 
-.h1Go1 {
+.h1Go3 {
    display: flex;
    align-items: center;
    flex-direction: column;
@@ -23,7 +23,7 @@ body {
         
 }
 
-.containerGo1 {
+.containerGo3 {
    width: 100%;
    height: 100vh;
    display: flex;
@@ -37,11 +37,12 @@ body {
    font-family:'Chakra Petch', sans-serif; ;
    font-size: 20px;
    color: white;
-   width: 50%;
-   height: 8%;
+   width: 68%;
+   height: 16%;
    background-color: rgba(248, 247, 247, 0.452);
    border-radius: 5px;
    text-align: center;
+   padding: 1%;
    
 }
 

@@ -1,3 +1,3 @@
-function voltarGo1() {
+function voltarGo2() {
    location= "../index.html";
 }
