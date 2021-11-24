@@ -3,6 +3,6 @@ function respostaFase1S () {
    if (resposta== 1) {
       location= "../fase2/index.html";
    }else {
-      location= "./gameOver1/index.html";
+      location= "./gameover1/index.html";
    }
 }
