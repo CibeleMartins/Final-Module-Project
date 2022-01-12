@@ -20,7 +20,7 @@ body {
    height: 100vh;
    display: flex;
    flex-direction: column;
-   background-image: url(./IMG/Sem\ Título-1\ \(1\).jpg);
+   background-image: url("./img/backgorundPrincipal.jpg");
    background-size: 100% 100vh ;
 
 
