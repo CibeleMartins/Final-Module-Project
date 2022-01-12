@@ -13,23 +13,19 @@
   <li>3 etapas/fases devem ser implementadas para cada personagem.</li>
   <li>A entrada do usuário deve ser realizada pelo prompt.</li>
   <li>As opções escolhidas no prompt devem guiar o jogador dentro na narrativa.</li>
-  <li>Cada etapa/fase deve ser implementada em um arquivo diferente</li>
+  <li>Cada etapa/fase deve ser implementada em um arquivo diferente.</li>
 </ul>
 <br>
-
 <h2>Documentações e Referências</h2>
 
 <ul>
-  <li><a hre="https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-classes">Pseudo-classes</a></li>
+  <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-classes">Pseudo-classes</a></li>
   <li><a href="https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Building_blocks/Events">Eventos</a></li>
   <li><a href= "https://www.w3schools.com/jsref/event_onclick.asp">Onclick</a></li>
   <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/API/Window/location">Window.location</a></li>
 </ul>
 <br>
-
 <h2>GitHubs Pages é logo ali...</h2>
-<br>
-
 <img src="./img/pages.gif">
 <br>
 
